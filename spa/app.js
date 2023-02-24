@@ -112,7 +112,7 @@ function onRouteChanged() {
                                         </div>
                                         <h4></h4>
                                         <footer>
-                                            <span>© 2023 Creator of The Quotes Room</span>
+                                            <span>© 2023 || The Quotes Room</span>
                                         </footer>
                                     </section>`;
             about();
