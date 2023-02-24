@@ -4,11 +4,14 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-# The Quotes Room
+# General
+In this repo
+
+## The Quotes Room
 
 The place to be for all the quotes you need!!
 
-## Information
+### Information
 
 Follow the process of this application, that started from scrath in the wiki. Here you will get everything step by step.
 
