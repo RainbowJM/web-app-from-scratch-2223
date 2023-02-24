@@ -5,7 +5,9 @@
 ![CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 # General
-In this repo
+In this repository you will find the following project's:
+- [Visitekaartje](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/visitekaartje)
+- [The Quotes Room](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/spa)
 
 ## The Quotes Room
 
@@ -15,4 +17,4 @@ The place to be for all the quotes you need!!
 
 Follow the process of this application, that started from scrath in the wiki. Here you will get everything step by step.
 
-https://github.com/RainbowJM/web-app-from-scratch-2223.wiki.git
+[Wiki](https://github.com/RainbowJM/web-app-from-scratch-2223.wiki.git)
