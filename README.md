@@ -4,9 +4,15 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-# The Quotes Room
+# General
+In this repository you will find the following project's:
+- [Visitekaartje](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/visitekaartje)
+- [The Quotes Room](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/spa)
+
+## The Quotes Room
 
 The place to be for all the quotes you need!!
+
 
 ## Overview
 
@@ -20,7 +26,6 @@ Follow the process of this application, that started from scrath in the wiki. He
 
 ## More Detailed Inside
 * [Wiki]https://github.com/RainbowJM/web-app-from-scratch-2223.wiki.git
-
 
 - - -
 © 2023 The Quotes Room, Jevona Magdalena. All Rights Reserved.
