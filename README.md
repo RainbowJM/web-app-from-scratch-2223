@@ -6,7 +6,7 @@
 
 # Table of content
 * [General](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#general)
-* [Overview](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#the-quotes-room)
+* [The Quotes Room](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#the-quotes-room)
   * [Installation](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#installation)
   * [Highlights](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#highlights)
     * [Features](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#features)
