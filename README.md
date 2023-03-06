@@ -6,8 +6,13 @@
 
 # Table of content
 * [General](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#general)
-* [Overview](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#)
-* [Installation](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#installation)
+* [Overview](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#the-quotes-room)
+  * [Installation](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#installation)
+  * [Highlights](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#highlights)
+    * [Features](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#features)
+    * [Coming Soon](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#coming-soon)
+  * [Source](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#source)
+  
 # General
 In this repository, you will find the following project's:
 - [Visitekaartje](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/visitekaartje)
