@@ -44,9 +44,10 @@ Follow the process of this application, that started from scratch in the wiki. H
 - [X] Previous button
 - [X] Random
 - [X] Filter by Author
-- [] Filter by Keyword
+- [ ] Filter by Keyword
 
 ### Activity Flow
+<img width="868" alt="Screenshot 2023-03-06 at 20 30 17" src="https://user-images.githubusercontent.com/59873140/223211569-51c09942-7f1f-4f65-a75b-bd732d58af73.png">
 
 ### Guides
 To see all the quotes, you have to press the next button. When you want to go back to the previous quote, just press the previous button.
