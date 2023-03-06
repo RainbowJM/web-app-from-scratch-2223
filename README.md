@@ -5,7 +5,9 @@
 ![CHROME](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 # Table of content
-* [General]()
+* [General](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#general)
+* [Overview](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#)
+* [Installation](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#installation)
 # General
 In this repository, you will find the following project's:
 - [Visitekaartje](https://github.com/RainbowJM/web-app-from-scratch-2223/tree/main/visitekaartje)
