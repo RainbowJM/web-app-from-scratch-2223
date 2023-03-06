@@ -8,7 +8,10 @@
 * [General](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#general)
 * [The Quotes Room](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#the-quotes-room)
   * [Installation](https://github.com/RainbowJM/web-app-from-scratch-2223/blob/main/README.md#installation)
-  * [Features](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#features)
+  * [Highlights](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#highlights)
+    * [Features](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#features)
+    * [Activity Flow](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#activity-flow)
+    * [Guides](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#guides)
   * [Source](https://github.com/RainbowJM/web-app-from-scratch-2223/edit/main/README.md#source)
   
 # General
@@ -30,7 +33,7 @@ Follow the process of this application, that started from scratch in the wiki. H
 
 ## Installation
 1. Clone the repository first
-``` git clone ```
+```git clone https://github.com/RainbowJM/web-app-from-scratch-2223.git```
 
 2. The application you can find it in the file `spa/`
 
