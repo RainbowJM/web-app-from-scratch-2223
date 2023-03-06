@@ -49,6 +49,9 @@ Follow the process of this application, that started from scratch in the wiki. H
 ### Activity Flow
 
 ### Guides
+To see all the quotes, you have to press the next button. When you want to go back to the previous quote, just press the previous button.
+If you want to get a random quote, we made a random button just for that. 
+Furthermore, you can also search for quotes by author name, this you can do by inserting the name of the author in the search bar and press enter. The application will to the rest.
 
 ## Source
 * [Search Bar](https://dev.to/am20dipi/how-to-build-a-simple-search-bar-in-javascript-4onf)
