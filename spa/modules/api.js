@@ -1,5 +1,4 @@
-import { loading, hideLoading } from "./render.js";
-import { setData } from "./render.js";
+import { loading, hideLoading, setData } from "./render.js";
 import { errorHandler } from "./error.js";
 
 const url = "https://opensheet.elk.sh/1p7Wnace8KpaIFnATpBcil_KyJ4P8IC8vYIUO8NCfcKc/Quotes";
