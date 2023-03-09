@@ -27,7 +27,7 @@ With Quotes Room, you can easily search for quotes by author and discover new qu
 Whether you're looking for a quote to use in your next presentation, or you simply want to find some inspiration for your day, Quotes Room has everything you need. Our app is user-friendly and easy to navigate, with a sleek and modern interface that is designed to enhance your browsing experience.
 The place to be for all the quotes!
 
-<img width="1352" alt="Screenshot 2023-03-06 at 11 49 07" src="https://user-images.githubusercontent.com/59873140/223089554-672e1854-39a8-40ef-a463-2f5ae12ed4b6.png">
+<img width="1352" alt="Screenshot 2023-03-09 at 17 04 33" src="https://user-images.githubusercontent.com/59873140/224082757-2498f207-82f0-4c52-9301-ba94ad378568.png">
 
 Follow the process of this application, that started from scratch in the wiki. Here you will get everything step by step.
 
@@ -54,7 +54,7 @@ Follow the process of this application, that started from scratch in the wiki. H
 - [ ] Hover indicator
 
 ### Activity Flow
-<img width="868" alt="Screenshot 2023-03-06 at 20 30 17" src="https://user-images.githubusercontent.com/59873140/223211569-51c09942-7f1f-4f65-a75b-bd732d58af73.png">
+<img width="585" alt="Screenshot 2023-03-09 at 17 05 14" src="https://user-images.githubusercontent.com/59873140/224082807-a751f2c6-b505-4864-b18a-9bbfbe77099b.png">
 
 ### Guides
 To see all the quotes, you have to press the next button. When you want to go back to the previous quote, just press the previous button.
