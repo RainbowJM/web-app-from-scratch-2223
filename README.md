@@ -44,6 +44,10 @@ Follow the process of this application, that started from scratch in the wiki. H
 - [X] Previous button
 - [X] Random
 - [X] Filter by Author
+- [X] Favicon
+- [X] Error state
+- [X] Loading state
+- [X] Empty state
 - [ ] Filter by Keyword
 - [ ] Dropdown of the name list when using the search bar
 - [ ] Home page indicator
