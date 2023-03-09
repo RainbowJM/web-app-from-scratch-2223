@@ -31,6 +31,10 @@ img[target=logo] {
     border-radius: 50%;
 }
 
+h1 {
+    margin: 10px;
+}
+
 nav {
     flex: 1;
     text-align: right;
@@ -102,7 +106,6 @@ section:hover .info {
     line-height: 1.1em;
     padding: 0 2em;
 
-    /* position: relative; */
     bottom: -4em;
     opacity: 0;
     background: transparent;
@@ -150,15 +153,15 @@ q {
     width: 300px;
 }
 
-main section:nth-of-type(1) footer {
+main footer {
     position: absolute;
     bottom: 0;
     height: 3em;
-    width: 100%;
+    width: 80%;
     display: inline-block;
     font-size: 1.2em;
-    padding: 0 2em;
-
+    padding: 0 2em;  
+    text-align: center;  
 }
 
 h4 {
@@ -172,20 +175,6 @@ h4 {
     bottom: -4em;
     text-align: center;
 }
-
-main section:nth-of-type(2) footer {
-    position: absolute;
-    bottom: 0;
-    height: 3em;
-    width: 100%;
-    display: inline-block;
-    padding: 0 2em;
-    color: white;
-}
-
-/* main section:nth-of-type(3) {
-
-} */
 
 .loading {
     display: grid;
@@ -201,7 +190,7 @@ main section:nth-of-type(2) footer {
 }
 
 .loading.display {
-   opacity: 1;
+    opacity: 1;
 }
 
 @keyframes spin {
@@ -212,4 +201,15 @@ main section:nth-of-type(2) footer {
     to {
         transform: rotate(360deg);
     }
+}
+
+#span-error {
+    text-align: center;
+    font-size: medium;
+}
+
+#error-message {
+    font-size: medium;
+    text-align: center;
+    padding-top: 100px;
 }

@@ -4,7 +4,7 @@ const loader = document.querySelector(".loading");
 const title = document.querySelector("h2");
 const bio = document.querySelector("p");
 const quote = document.querySelector("q");
-const id = document.querySelector("span > span");
+const id = document.querySelector("div > span");
 export const author = [];
 
 export function loading() {
