@@ -46,6 +46,8 @@ Follow the process of this application, that started from scratch in the wiki. H
 - [X] Filter by Author
 - [ ] Filter by Keyword
 - [ ] Dropdown of the name list when using the search bar
+- [ ] Home page indicator
+- [ ] Hover indicator
 
 ### Activity Flow
 <img width="868" alt="Screenshot 2023-03-06 at 20 30 17" src="https://user-images.githubusercontent.com/59873140/223211569-51c09942-7f1f-4f65-a75b-bd732d58af73.png">
