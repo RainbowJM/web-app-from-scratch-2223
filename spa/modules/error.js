@@ -1,8 +1,6 @@
 const routerView = document.getElementById("router-view");
 
 export function errorHandler() {
-    console.log("hello")
-
     routerView.innerHTML = `<section id="about">
                                         <div class="title-box">
                                             <h3>Refresh</h3>
