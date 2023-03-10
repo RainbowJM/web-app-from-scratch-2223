@@ -64,6 +64,12 @@ Furthermore, you can also search for quotes by author name, this you can do by i
 ## Source
 * [Search Bar](https://dev.to/am20dipi/how-to-build-a-simple-search-bar-in-javascript-4onf)
 * [Wiki](https://github.com/RainbowJM/web-app-from-scratch-2223.wiki.git)
+* [API](https://github.com/benborgers/opensheet#readme)
+* [Ben Borgers](https://benborgers.com/posts/google-sheets-json)
+* [Fetch](https://gomakethings.com/how-to-use-the-fetch-api-with-vanilla-js/)
+* [Error](https://learnwithparam.com/blog/how-to-handle-fetch-errors/)
+* [Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+* [Routing](https://developer.mozilla.org/en-US/docs/Web/API/Window/hashchange_event)
 
 - - -
 © 2023 The Quotes Room, Jevona Magdalena. All Rights Reserved.
