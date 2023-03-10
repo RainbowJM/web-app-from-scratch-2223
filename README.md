@@ -27,7 +27,7 @@ With Quotes Room, you can easily search for quotes by author and discover new qu
 Whether you're looking for a quote to use in your next presentation, or you simply want to find some inspiration for your day, Quotes Room has everything you need. Our app is user-friendly and easy to navigate, with a sleek and modern interface that is designed to enhance your browsing experience.
 The place to be for all the quotes!
 
-<img width="1352" alt="Screenshot 2023-03-09 at 17 04 33" src="https://user-images.githubusercontent.com/59873140/224082757-2498f207-82f0-4c52-9301-ba94ad378568.png">
+<img width="1336" alt="Screenshot 2023-03-10 at 10 15 29" src="https://user-images.githubusercontent.com/59873140/224275305-f7a38301-b67c-4475-8c0b-bc3f72cc063b.png">
 
 Follow the process of this application, that started from scratch in the wiki. Here you will get everything step by step.
 
